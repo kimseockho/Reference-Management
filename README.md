@@ -18,7 +18,7 @@ These files are the core of this program and are used to implement the functions
 These are responsible for the timestamping and called when 1) file is read for the first time, 2) any update is made to a previously read file.
 
 
-History
+What's New
 -------------------------
 
 v2.0: Object orientated approach is used to implement the string parsing module. Some bugs during the parsing are fixed; timestamping is implemented, output is generated in the form of (tag, content) pair e.g. (year, 2018)
