@@ -1,0 +1,22 @@
+@article{XIE2018265,
+
+title = "Automatic multi-image stitching for concrete bridge inspection by combining point and line features",
+
+journal = "Automation in Construction",
+
+volume = "90",
+
+pages = "265 - 280",
+
+year = "2018",
+
+issn = "0926-5805",
+
+doi = "https://doi.org/10.1016/j.autcon.2018.02.021",
+
+url = "http://www.sciencedirect.com/science/article/pii/S0926580518301237",
+
+author = "Renping Xie and Jian Yao and Kang Liu and Xiaohu Lu and Yahui Liu and Menghan Xia and Qifei Zeng",
+
+keywords = "Bridge health monitoring, Concrete bridge inspection, Multi-image matching, Image stitching, Image blending, Scene reconstruction"
+}
