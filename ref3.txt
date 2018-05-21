@@ -1,6 +1,0 @@
-@misc{gonzalez2017digital,
-  title={Digital image processing using MATLAB},
-  author={Gonzalez, Rafael C and Eddins, Steven L},
-  year={2017},
-  publisher={Gatesmark Publishing}
-}
