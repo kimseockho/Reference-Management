@@ -1,4 +1,5 @@
-# REFERENCE MANAGEMENT SYSTEM
+# Reference Management System
+This program was developed as a group assignment for the COMP718 Advanced Programming Languages under the guidance of course instructor Jaeil Kim. The team members are: Shahzad Ali, SeokHo Kim, and Lamyanba Isharam
 
 Aim of this Program
 -------------------------
